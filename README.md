@@ -77,6 +77,10 @@ My goal is to become a professional full stack developer who can not only create
 
 ### 📚 Library Management App
 
+<!-- Portfolio Preview -->
+
+<img src="https://via.placeholder.com/800x400.png?text=Library+App+Preview" />
+
 </div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5)
@@ -108,11 +112,17 @@ A comprehensive library management system designed to streamline book inventory 
 
 ---
 
-## 💡 What I'm Currently Learning
+## 🐍 Contribution Snake
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/mesbahimohammedyassirsolicode-star/mesbahimohammedyassirsolicode-star/output/github-contribution-grid-snake.svg" />
+
 </div>
+
+---
+
+## 💡 What I'm Currently Learning
 
 * 🔄 Advanced React patterns and state management
 * 🐘 PHP frameworks (Laravel)
